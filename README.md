@@ -1,0 +1,1 @@
+# AiVA-96-windows-10-iot-core-setup
